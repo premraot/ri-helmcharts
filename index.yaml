@@ -9,6 +9,6 @@ entries:
     name: wireless-ready-itm
     type: application
     urls:
-    - https://github.com/premraot/ri-helmcharts.git/itm-updated.tgz
+    - https://raw.githubusercontent.com/premraot/ri-helmcharts/master/itm-updated.tgz
     version: 0.1.0
 generated: "2023-03-10T12:32:46.191728977+05:30"
