@@ -3,9 +3,9 @@ entries:
   social-distancing-retail:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-21T17:58:56.504021159+05:30"
+    created: "2023-03-24T15:11:59.013561663+05:30"
     description: A Helm chart for Kubernetes
-    digest: c2a71387a25b10165604889d319a988ac6a234d433a55e41a79f16280ce325a4
+    digest: ce0bb20271558be14c4ad4fcd8eefe7cd1647a73db0a4156f67eab6808988a81
     name: social-distancing-retail
     type: application
     urls:
@@ -14,7 +14,7 @@ entries:
   wireless-ready-itm:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-21T17:58:56.502934415+05:30"
+    created: "2023-03-24T15:11:59.011726107+05:30"
     description: A Helm chart for Kubernetes
     digest: 5ffb82f8bd160e0b3c5eae08f3eb89afbebdbc65d519a23b79659b727ae3ba62
     name: wireless-ready-itm
@@ -22,4 +22,4 @@ entries:
     urls:
     - https://raw.githubusercontent.com/premraot/ri-helmcharts/master/itm-updated.tgz
     version: 0.1.0
-generated: "2023-03-21T17:58:56.502028848+05:30"
+generated: "2023-03-24T15:11:59.009945559+05:30"
