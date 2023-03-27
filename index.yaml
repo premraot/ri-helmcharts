@@ -9,7 +9,7 @@ entries:
     name: social-distancing-retail
     type: application
     urls:
-    - https://raw.githubusercontent.com/premraot/ri-helmcharts/master/social-distancing-retail.tgz
+    - social-distancing-retail.tgz
     version: 0.1.0
   wireless-ready-itm:
   - apiVersion: v2
@@ -20,6 +20,6 @@ entries:
     name: wireless-ready-itm
     type: application
     urls:
-    - https://raw.githubusercontent.com/premraot/ri-helmcharts/master/itm-updated.tgz
+    - itm-updated.tgz
     version: 0.1.0
 generated: "2023-03-24T15:11:59.009945559+05:30"
